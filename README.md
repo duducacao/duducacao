@@ -19,5 +19,5 @@
 ### 📊 The Data
 
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/godbanned.png" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/duducacao.png" alt="Your Image Badge" />
 </div>
