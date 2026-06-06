@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=39FF14&text=OrangeCat0x&height=100&fontSize=70&animation=fadeIn" width="100%" alt="duducacao"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=39FF14&text=duducacao&height=100&fontSize=70&animation=fadeIn" width="100%" alt="duducacao"/>
 </div>
 
 <div align="center">
